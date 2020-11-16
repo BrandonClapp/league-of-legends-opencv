@@ -1,0 +1,112 @@
+{
+    "champions": {
+        "Ezreal": {
+            "confidence": 0.9,
+            "calibrated": true
+        },
+        "Udyr": {
+            "confidence": 0.85,
+            "calibrated": true
+        },
+        "Malphite": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Annie": {
+            "confidence": 0.73,
+            "calibrated": true
+        },
+        "Kassadin": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Warwick": {
+            "confidence": 0.83,
+            "calibrated": true
+        },
+        "Amumu": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Alistar": {
+            "confidence": 0.79,
+            "calibrated": true
+        },
+        "Skarner": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Shyvana": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Sion": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Zoe": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Yone": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Aatrox": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Rammus": {
+            "confidence": 0.9,
+            "calibrated": true
+        },
+        "Vladimir": {
+            "confidence": 0.8,
+            "calibrated": true
+        },
+        "Leona": {
+            "confidence": 0.9,
+            "calibrated": true
+        },
+        "Lucian": {
+            "confidence": 0.79,
+            "calibrated": true
+        },
+        "Shen": {
+            "confidence": 0.84,
+            "calibrated": true
+        },
+        "Soraka": {
+            "confidence": 0.85,
+            "calibrated": true
+        },
+        "Caitlyn": {
+            "confidence": 0.83,
+            "calibrated": true
+        },
+        "Vi": {
+            "confidence": 0.84,
+            "calibrated": true
+        },
+        "Lee Sin": {
+            "confidence": 0.73,
+            "calibrated": true
+        },
+        "Zac": {
+            "confidence": 0.75,
+            "calibrated": true
+        },
+        "Zed": {
+            "confidence": 0.5,
+            "calibrated": false
+        },
+        "Nocturne": {
+            "confidence": 0.78,
+            "calibrated": true
+        },
+        "Hecarim": {
+            "confidence": 0.81,
+            "calibrated": true
+        }
+    }
+}
